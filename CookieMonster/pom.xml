@@ -35,7 +35,7 @@
 		<dependency>
 			<groupId>org.apache.maven.shared</groupId>
 			<artifactId>maven-shared-utils</artifactId>
-			<version>3.1.0</version>
+			<version>3.3.3</version>
 		</dependency>
 	</dependencies>
 	<description>A utility for exfiltrating cookies from local browser cookie stores.</description>
